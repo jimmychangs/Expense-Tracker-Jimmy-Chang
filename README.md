@@ -11,14 +11,19 @@ People get overwhelmed keeping track of all their expenses, like subscriptions, 
 - Why do existing solutions fall short?
 Existing solutions can fall short due to people not having a clear vision on what they spend on and what to cut back on. Also not many people have goals in their finances which distracts people from keeping track of their budget.
 - What specific pain points will you address?
-
+Making a clear overview of your spending and assisting in creating and keeping track of a budgets and financial goals.
 
 ## Target Users
 [TODO: List 3-4 types of users who would benefit from your app]
+- College students
+- People with new income (New job, side hustle, etc.)
+- People wanting to make a large purchase (House, car, etc.)
+- People who want to change their financial habits
+- New parents
 
 ## Core Features (MVP)
 [TODO: List 5-6 essential features for version 1]
-- [ ] 
+- [ ] Expense Overview
 - [ ] 
 - [ ] 
 - [ ] 
