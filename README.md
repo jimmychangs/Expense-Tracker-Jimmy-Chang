@@ -9,7 +9,7 @@ This is an app to track your expenses and support your budgeting goals. It can h
 - What frustrates people about tracking expenses?
 People get overwhelmed keeping track of all their expenses, like subscriptions, groceries etc. Spending can get out of hand if expenses are not being budgeted properly.
 - Why do existing solutions fall short?
-Existing solutions can fall short due to people not having a clear vision on what they spend on and what to cut back on. Also not many people have goals in their finances which distracts people from keeping track of their budget.
+Existing solutions can fall short due to people not having a clear vision on what they spend on and what to cut back on. Also not many people have goals in their finances which distracts people from keeping track of their budget. Gameifying it can keep users engaged.
 - What specific pain points will you address?
 Making a clear overview of your spending and assisting in creating and keeping track of a budgets and financial goals.
 
@@ -24,9 +24,9 @@ Making a clear overview of your spending and assisting in creating and keeping t
 ## Core Features (MVP)
 [TODO: List 5-6 essential features for version 1]
 - [ ] Expense Overview
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Budgeting tool
+- [ ] Goal list
+- [ ] Subscriptions tracker
 - [ ] 
 
 ## Technical Stack
